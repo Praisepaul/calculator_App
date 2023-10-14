@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Praisepaul/calculator_App/static/css/main.6d2187b0.css",
+    "main.js": "/Praisepaul/calculator_App/static/js/main.462a086a.js",
+    "index.html": "/Praisepaul/calculator_App/index.html",
+    "main.6d2187b0.css.map": "/Praisepaul/calculator_App/static/css/main.6d2187b0.css.map",
+    "main.462a086a.js.map": "/Praisepaul/calculator_App/static/js/main.462a086a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d2187b0.css",
+    "static/js/main.462a086a.js"
+  ]
+}
